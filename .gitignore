@@ -1,0 +1,4 @@
+.vercel
+.next
+werkzeug*
+node_modules
